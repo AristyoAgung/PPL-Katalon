@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case Input Barang</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f81365c-1f1f-4b93-ad3f-1a1dd2cb8f44</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4de5cfbc-e247-429f-9552-8afc5030cfd2</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>71d8a21e-1c83-4c40-b960-3ba7ef8ba7e1</id>
+      <masked>false</masked>
+      <name>Price</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5946604-78c9-4272-8034-84a8977ccded</id>
+      <masked>false</masked>
+      <name>Description</name>
+   </variable>
+</TestCaseEntity>

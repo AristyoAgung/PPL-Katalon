@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validasi List Produk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4098e29-007e-4896-8813-1a23a0d60e39</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c846a8f-5b3e-4130-a7f7-ae76f601b85a</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>
